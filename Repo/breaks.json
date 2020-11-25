@@ -1,0 +1,47 @@
+[
+  {
+    "Break": "Break1",
+    "Demographic": "W25-30",
+    "Rating": "80"
+  },
+  {
+    "Break": "Break1",
+    "Demographic": "M18-35",
+    "Rating": "100"
+  },
+  {
+    "Break": "Break1",
+    "Demographic": "T18-40",
+    "Rating": "250"
+  },
+  {
+    "Break": "Break2",
+    "Demographic": "W25-30",
+    "Rating": "50"
+  },
+  {
+    "Break": "Break2",
+    "Demographic": "M18-35",
+    "Rating": "120"
+  },
+  {
+    "Break": "Break2",
+    "Demographic": "T18-40",
+    "Rating": "200"
+  },
+  {
+    "Break": "Break3",
+    "Demographic": "W25-30",
+    "Rating": "350"
+  },
+  {
+    "Break": "Break3",
+    "Demographic": "M18-35",
+    "Rating": "150"
+  },
+  {
+    "Break": "Break3",
+    "Demographic": "T18-40",
+    "Rating": "500"
+  }
+]

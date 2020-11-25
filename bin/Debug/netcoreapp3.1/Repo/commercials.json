@@ -1,0 +1,52 @@
+[
+  {
+    "CommercialName": "Commercial 1",
+    "CommercialType": "Automotive",
+    "Demographic": "W25-30"
+  },
+  {
+    "CommercialName": "Commercial 2",
+    "CommercialType": "Travel",
+    "Demographic": "M18-35"
+  },
+  {
+    "CommercialName": "Commercial 3",
+    "CommercialType": "Travel",
+    "Demographic": "T18-40"
+  },
+  {
+    "CommercialName": "Commercial 4",
+    "CommercialType": "Automotive",
+    "Demographic": "M18-35"
+  },
+  {
+    "CommercialName": "Commercial 5",
+    "CommercialType": "Automotive",
+    "Demographic": "M18-35"
+  },
+  {
+    "CommercialName": "Commercial 6",
+    "CommercialType": "Finance",
+    "Demographic": "W25-30"
+  },
+  {
+    "CommercialName": "Commercial 7",
+    "CommercialType": "Finance",
+    "Demographic": "M18-35"
+  },
+  {
+    "CommercialName": "Commercial 8",
+    "CommercialType": "Automotive",
+    "Demographic": "T18-40"
+  },
+  {
+    "CommercialName": "Commercial 9",
+    "CommercialType": "Travel",
+    "Demographic": "W25-30"
+  },
+  {
+    "CommercialName": "Commercial 10",
+    "CommercialType": "Finance",
+    "Demographic": "T18-40"
+  }
+]
